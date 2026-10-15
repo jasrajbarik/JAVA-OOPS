@@ -1,4 +1,4 @@
-package Basics;
+package Encapsulation;
 
 public class BankPortalDriver {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Basics;
+package Encapsulation;
 
 public class Payment {
     private int balance; //private so that other class can't change this value
