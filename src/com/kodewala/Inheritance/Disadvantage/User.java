@@ -1,4 +1,4 @@
-package Inheritance.Disadvantage;
+package com.kodewala.Inheritance.Disadvantage;
 
 public class User
 {

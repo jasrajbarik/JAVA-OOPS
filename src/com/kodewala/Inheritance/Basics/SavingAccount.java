@@ -1,4 +1,4 @@
-package Inheritance.Basics;
+package com.kodewala.Inheritance.Basics;
 
 public class SavingAccount extends Account {
     public void openSavingAccount(String name, String address, String type)

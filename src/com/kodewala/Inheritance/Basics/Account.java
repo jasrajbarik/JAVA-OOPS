@@ -1,4 +1,4 @@
-package Inheritance.Basics;
+package com.kodewala.Inheritance.Basics;
 //Existing class in the system
 public class Account {
 

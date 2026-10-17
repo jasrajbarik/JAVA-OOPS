@@ -1,4 +1,4 @@
-package Inheritance.Basics;
+package com.kodewala.Inheritance.Basics;
 
 public class Employee {
     String name = "Amit";

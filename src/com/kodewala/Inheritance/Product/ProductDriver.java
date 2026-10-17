@@ -1,4 +1,4 @@
-package Inheritance.Product;
+package com.kodewala.Inheritance.Product;
 
 public class ProductDriver {
     public static void main(String[] args) {

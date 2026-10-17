@@ -1,4 +1,4 @@
-package Inheritance.Product;
+package com.kodewala.Inheritance.Product;
 
 public class ElectronicProducts extends Product {
     boolean isWarranty;

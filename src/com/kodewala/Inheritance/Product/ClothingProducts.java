@@ -1,4 +1,4 @@
-package Inheritance.Product;
+package com.kodewala.Inheritance.Product;
 
 public class ClothingProducts extends Product {
     String gender;

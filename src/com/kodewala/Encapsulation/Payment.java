@@ -1,8 +1,8 @@
-package Encapsulation;
+package com.kodewala.Encapsulation;
 
 public class Payment {
     private int balance; //private so that other class can't change this value
-    // Encapsulation: you don't share your data directly, can use getter methods.
+    // com.kodewala.Encapsulation: you don't share your data directly, can use getter methods.
     public Payment(int _balance) {
         super();
         this.balance = _balance;

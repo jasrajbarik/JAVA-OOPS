@@ -1,4 +1,4 @@
-package Inheritance.Basics;
+package com.kodewala.Inheritance.Basics;
 
 public class EmployeeDriver {
     public static void main(String[] args) {

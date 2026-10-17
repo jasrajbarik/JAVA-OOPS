@@ -1,4 +1,4 @@
-package Encapsulation;
+package com.kodewala.Encapsulation;
 
 public class Driver {
     public static void main(String[] args) {

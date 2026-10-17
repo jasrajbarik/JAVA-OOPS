@@ -1,4 +1,4 @@
-package Inheritance.Product;
+package com.kodewala.Inheritance.Product;
 
 public class Product {
     //Generic Products
