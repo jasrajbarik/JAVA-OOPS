@@ -1,6 +1,6 @@
 package com.kodewala.Inheritance.Basics;
 
-public class Employee {
+class EmployeeData {
     String name = "Amit";
     String address = "Bangalore";
 
@@ -11,7 +11,7 @@ public class Employee {
     }
 }
 
-class Manager extends Employee //Manager IS-A Employee
+class Manager extends EmployeeData //Manager IS-A Employee
 {
     public void doSomething()
     {
