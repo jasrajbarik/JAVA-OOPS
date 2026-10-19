@@ -1,4 +1,4 @@
-package JavaBackendJourney.october17;
+package com.JavaBackendJourney.october17;
 
 import java.util.Scanner;
 
